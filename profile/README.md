@@ -3,4 +3,4 @@ DAOsign is a decentralized platform for agreements with publicly verifiable and 
 
 by [CIDT team](https://consideritdone.tech/)
 
-![DaoSign logo](../img/Logo.png)
+![DaoSign logo](img/Logo.png)
